@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-16T12:07:08.755Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="wQ2JM5BVPAvdViki8YWd" version="18.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-16T12:07:56.065Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="Tb3upL7IfbSIjfehDnEk" version="18.0.5" type="github">
   <diagram id="Bp350UrvpoQKVU1mhS4t" name="Page-1">
     <mxGraphModel dx="2084" dy="1112" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -37,8 +37,20 @@
         <mxCell id="NrMkjOSrG8eFw-22zu24-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NrMkjOSrG8eFw-22zu24-20" value="ifu_compress_ctl" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="280" width="60" height="30" as="geometry" />
+        <mxCell id="NrMkjOSrG8eFw-22zu24-20" value="ifu_compress_ctl.sv" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NrMkjOSrG8eFw-22zu24-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NrMkjOSrG8eFw-22zu24-22" value="ifu_compress_ctl.sv" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NrMkjOSrG8eFw-22zu24-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NrMkjOSrG8eFw-22zu24-29" value="ifu_compress_ctl.sv" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="420" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
